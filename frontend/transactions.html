@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transactions</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="sidebar">
+    <h2>📚 Library</h2>
+    <a href="index.html">🏠 Home</a>
+    <a href="books.html">📖 View Books</a>
+    <a href="add-book.html">➕ Add Book</a>
+    <a href="add-user.html">👤 Add User</a>
+    <a href="transactions.html">🔄 Transactions</a>
+</div>
+
+<div class="content">
+    <h1>Borrowed Books & Transactions</h1>
+    <table id="transaction-table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Book Title</th>
+                <th>User Name</th>
+                <th>Status</th>
+                <th>Borrow Date</th>
+                <th>Return Date</th>
+            </tr>
+        </thead>
+        <tbody id="transaction-list"></tbody>
+    </table>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
