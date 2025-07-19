@@ -104,11 +104,22 @@ library-management-system/
 
 ## 🎉 Screens Included
 
-* Home Page (`index.html`)
-* View Books + Borrow/Return (`books.html`)
-* Add Book (`add-book.html`)
-* Add User + View Users (`add-user.html`)
-* Transaction History (`transactions.html`)
+![image](https://github.com/Prajapatikapil41/Library-Management-System/blob/main/images/Screenshot%20(182).png)
+![image](https://github.com/Prajapatikapil41/Library-Management-System/blob/main/images/Screenshot%20(183).png)
+![image](https://github.com/Prajapatikapil41/Library-Management-System/blob/main/images/Screenshot%20(184).png)
+![image](https://github.com/Prajapatikapil41/Library-Management-System/blob/main/images/Screenshot%20(185).png)
+![image](https://github.com/Prajapatikapil41/Library-Management-System/blob/main/images/Screenshot%20(186).png)
+![image](https://github.com/Prajapatikapil41/Library-Management-System/blob/main/images/Screenshot%20(187).png)
+![image](https://github.com/Prajapatikapil41/Library-Management-System/blob/main/images/Screenshot%20(188).png)
+![image](https://github.com/Prajapatikapil41/Library-Management-System/blob/main/images/Screenshot%20(189).png)
+![image](https://github.com/Prajapatikapil41/Library-Management-System/blob/main/images/Screenshot%20(190).png)
+![image](https://github.com/Prajapatikapil41/Library-Management-System/blob/main/images/Screenshot%20(191).png)
+![image](https://github.com/Prajapatikapil41/Library-Management-System/blob/main/images/Screenshot%20(192).png)
+![image](https://github.com/Prajapatikapil41/Library-Management-System/blob/main/images/Screenshot%20(193).png)
+![image](https://github.com/Prajapatikapil41/Library-Management-System/blob/main/images/Screenshot%20(194).png)
+![image](https://github.com/Prajapatikapil41/Library-Management-System/blob/main/images/Screenshot%20(195).png)
+![image](https://github.com/Prajapatikapil41/Library-Management-System/blob/main/images/Screenshot%20(196).png)
+![image](https://github.com/Prajapatikapil41/Library-Management-System/blob/main/images/Screenshot%20(197).png)
 
 ---
 
@@ -119,13 +130,13 @@ library-management-system/
 * Clean backend response handling with `ResponseEntity`.
 
 ---
----
 
 ## 👨‍💻 Author
 
-| Name                | GitHub                                                  | LinkedIn                                                                 | E-Mail                                                              | Photo                                                                                                                                                                               |
-| ------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------- |                                                                                                                                                                                     |
-| **Kapil Prajapati** | [Prajapatikapil41](https://github.com/Prajapatikapil41) | [Kapil LinkedIn](https://www.linkedin.com/in/kapil-prajapati-7ba4b51b7/) | [kapilprajapati0403@gmail.com](mailto:kapilprajapati0403@gmail.com) | [<img src="https://avatars.githubusercontent.com/u/81869156?s=400&u=ff6de7017b51e4d96dbfb1ae39c7a459d5e13ea8&v=4" align="right" height="100">](https://github.com/Prajapatikapil41) |
+|                                                                                                     Photo                                                                                                    | **Kapil Prajapati**                                                                                                                                                                                                                                                 |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [<img src="https://avatars.githubusercontent.com/u/81869156?s=400&u=ff6de7017b51e4d96dbfb1ae39c7a459d5e13ea8&v=4" width="120" height="120" style="border-radius:50%;">](https://github.com/Prajapatikapil41) | - 🧑‍💻 **GitHub:** [Prajapatikapil41](https://github.com/Prajapatikapil41)<br> - 💼 **LinkedIn:** [Kapil LinkedIn](https://www.linkedin.com/in/kapil-prajapati-7ba4b51b7/)<br> - 📧 **Email:** [kapilprajapati0403@gmail.com](mailto:kapilprajapati0403@gmail.com) |
+
+---
 
 
-```
